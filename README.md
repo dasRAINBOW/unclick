@@ -3,9 +3,12 @@ Undetectable autoclicker in Python.
 
 ## How to use
 (Only works on Windows due to libraries, might make Linux version some time) <br>
-Download source, extract, open ```main.pyw```. <br>
+Download source, extract. <br>
+Open cmd in that folder, paste ```pip install -r requirements.txt```. <br>
+Open ```main.pyw``` file <br>
 Hold F24 (or change bind in ```main.pyw``` file yourself) to click. <br>
 To close, press F20 (or change bind in ```main.pyw```) <br>
+Enjoy. :)
 
 ## Origin
 I was getting banned for Razer autoclick feature in The Finals all the time. So I made my own autoclicker that's undetectable (well almost). It worked.
