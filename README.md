@@ -2,7 +2,7 @@
 Undetectable autoclicker in Python.
 
 ## How to use
-(Only works on Windows for now, might make Linux version later.)
+(Only works on Windows due to libraries, might make Linux version some time)
 Download source, extract, open ```main.pyw```.
 Hold F24 (or change bind in ```main.pyw``` file yourself) to click.
 To close, press F20 (or change bind in ```main.pyw```)
