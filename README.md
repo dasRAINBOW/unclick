@@ -2,6 +2,13 @@
 Undetectable autoclicker in Python.
 
 ## How to use
+### Simple Executable
+Download UNCLICK.exe from [releases](https://github.com/dasRAINBOW/unclick/releases/tag/v1.0.0). <br>
+Now you just have to execute it. <br>
+If you have problems executing .exe files on your windows machine, right click on the .exe file then go on properties and allow executing. <br>
+Enjoy. :)
+
+### Python
 (Only works on Windows due to libraries, might make Linux version some time) <br>
 Download source, extract. <br>
 Open cmd in that folder, paste ```pip install -r requirements.txt```. <br>
